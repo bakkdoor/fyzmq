@@ -1,0 +1,8 @@
+FyZMQ is a simple Fancy wrapper for Ruby's ZMQ binding running on the Rubinius VM.
+(C) 2011 Christopher Bertels <chris@fancy-lang.org>
+
+More documentation coming soon.
+
+LICENSE:
+Same license as ZeroMQ and ZeroMQ Ruby Bindings (LGPL v3).
+For more information see ZeroMQ licensing.
